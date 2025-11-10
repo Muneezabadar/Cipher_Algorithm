@@ -4,8 +4,8 @@ This custom cipher is a product cipher that strategically integrates two well-kn
 Playfair Cipher (Confusion)
 
 The Playfair Cipher serves as the primary source of confusion (making the relationship between the key and the ciphertext as complex as possible).
-•	Digraph Substitution: It encrypts letters in digraphs (pairs) rather than individually.
-•	Obscuring Patterns: This immediately eliminates the primary vulnerability of simple substitution ciphers: single-letter frequency analysis. Because the substitution of a letter depends on its neighbor, one plaintext letter can result in multiple different ciphertext letters, scattering the statistical evidence.
+* Digraph Substitution: It encrypts letters in digraphs (pairs) rather than individually.
+* Obscuring Patterns: This immediately eliminates the primary vulnerability of simple substitution ciphers: single-letter frequency analysis. Because the substitution of a letter depends on its neighbor, one plaintext letter can result in multiple different ciphertext letters, scattering the statistical evidence.
 
 Hill Cipher (Diffusion)
 
