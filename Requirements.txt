@@ -1,0 +1,8 @@
+1. Python Environment
+You need an operational Python 3.x environment installed on your computer.
+
+2. NumPy Library (Essential)
+pip install numpy
+
+3. Built-in Libraries
+Python libraries math and typing.
